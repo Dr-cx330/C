@@ -1,6 +1,6 @@
 int main (void)
 {
-   printf("Hello world!");
+   printf("Hello C!");
    return 0; 
 }
 //C语言学习我来了
