@@ -1,3 +1,4 @@
 {
-    "C_Cpp.default.compilerPath": "d:\\Microsoft VS Code\\7debcd0e2a\\resources\\app\\node_modules.asar.unpacked\\@vscode\\os-proxy-resolver-win32-x64-msvc\\os_proxy_resolver.node"
+    "C_Cpp.default.compilerPath": "d:\\Microsoft VS Code\\7debcd0e2a\\resources\\app\\node_modules.asar.unpacked\\@vscode\\os-proxy-resolver-win32-x64-msvc\\os_proxy_resolver.node",
+    "C_Cpp.errorSquiggles": "disabled"
 }
